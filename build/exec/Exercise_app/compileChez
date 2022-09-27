@@ -1,0 +1,1 @@
+(parameterize ([optimize-level 3] [compile-file-message #f]) (compile-program "/home/marouan/Desktop/IdrisEx/build/exec/Exercise_app/Exercise.ss"))
